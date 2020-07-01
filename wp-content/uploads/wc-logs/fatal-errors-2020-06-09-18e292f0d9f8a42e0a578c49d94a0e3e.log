@@ -1,0 +1,6 @@
+2020-06-09T13:15:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\Users\abdo\Desktop\site\BestShop\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\AnalyticsDashboard.php في السطر 127
+
+2020-06-09T13:18:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\Users\abdo\Desktop\site\BestShop\wp-includes\Requests\Transport\cURL.php في السطر 163
+
+2020-06-09T13:18:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded في C:\Users\abdo\Desktop\site\BestShop\wp-includes\class-wp-editor.php في السطر 1897
+
